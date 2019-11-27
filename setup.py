@@ -35,7 +35,6 @@ setup(
     packages=['pyflightdata'],
     licence='MIT',
     install_requires=[
-        'lxml',
         'requests',
         'beautifulsoup4',
         'jsonpath-rw',

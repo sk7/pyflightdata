@@ -1,7 +1,6 @@
 jupyter
 requests
 html5lib
-lxml>=4.4.1
 beautifulsoup4>=4.8.1
 pytest
 pytest-cov
